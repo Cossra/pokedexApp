@@ -13,7 +13,7 @@ public class Pokemon {
     private boolean isFainted;
 
 
-    public Pokemon(String name, int level, String type, List<String> moves, int MaxHp) {
+    public Pokemon(String name, int level, String type, List<String> moves, int maxHp) {
         this.name = name;
         this.level = level;
         this.type = type;
